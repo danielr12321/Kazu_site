@@ -1,0 +1,7 @@
+# Wan 2.2 code and weights are fetched by wan-animate/setup.sh — never commit them
+wan-animate/Wan2.2/
+wan-animate/Wan2.2-Animate-14B/
+wan-animate/work/
+wan-animate/outputs/
+*.safetensors
+*.pth
