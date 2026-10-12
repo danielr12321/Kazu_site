@@ -5,3 +5,4 @@ wan-animate/work/
 wan-animate/outputs/
 *.safetensors
 *.pth
+wan-animate/inputs/
